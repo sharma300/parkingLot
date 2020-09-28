@@ -1,0 +1,20 @@
+{
+  "name": "parking_lot",
+  "version": "1.0.0",
+  "description": "parking lot ",
+  "main": "parking_lot.js",
+  "bin": {
+    "parking_lot": "parking_lot.js",
+    "setup": "setup.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.8.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {}
+}
